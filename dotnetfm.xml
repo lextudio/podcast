@@ -1,0 +1,354 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
+<channel>
+<title>.NET FM</title>
+<link>https://www.ximalaya.com/album/3924737/</link>
+<pubDate>Fri, 11 Oct 2019 05:03:09 GMT</pubDate>
+<language>zh-CN</language>
+<description>
+<![CDATA[ 一档专业而轻松的技术播客，主讲.NET和其他微软技术 ]]>
+</description>
+<itunes:author>DotNetFM</itunes:author>
+<itunes:image href="https://fdfs.xmcdn.com/group12/M0B/2A/75/wKgDW1bxSTbxhBjbAAATvBuhs6s937.png"/>
+<itunes:owner>
+<itunes:name>.NET FM</itunes:name>
+<itunes:email>support@lextudio.com</itunes:email>
+</itunes:owner>
+<itunes:type>episodic</itunes:type>
+<item>
+<title>番外 2018.6: Kerry Jiang，MVP 快速访谈</title>
+<link>https://www.ximalaya.com/45305355/sound/77198883/</link>
+<pubDate>Sun, 18 Mar 2018 03:14:16 GMT</pubDate>
+<guid>ximalaya_77198883</guid>
+<description>
+<![CDATA[ <p>今年的微软 MVP 峰会上主播 Lex Li 的室友也是一位从上海搬家到北美的微软 MVP，名叫 Kerry Jiang。趁着间隙，Lex 对他做了一次快速访谈。</p><br><p><a>Kerry Jiang 的 GitHub 页面</a></p><br><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/77198883/">https://www.ximalaya.com/45305355/sound/77198883/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group41/M0A/27/82/wKgJ8Vqt2YmTI9DbADaWfdrQ3zs846.mp3" type="audio/mpeg"/>
+<itunes:duration>07:27</itunes:duration>
+</item>
+<item>
+<title>番外 2018.5: 初探 dotnet 命令行</title>
+<link>https://www.ximalaya.com/45305355/sound/71507185/</link>
+<pubDate>Sun, 11 Feb 2018 18:08:28 GMT</pubDate>
+<guid>ximalaya_71507185</guid>
+<description>
+<![CDATA[ <p>.NET Core SDK 引入了一个全能的命令行工具 dotnet，使得开发者仅仅通过命令行就能完成从创建新工程到编译、测试、发布的全部开发流程。更为重要的是，这个命令行还支持来自第三方的扩展，使得它的功能还能得到进一步提升。本期节目，我们来学习一下这个命令行的使用方法。</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/71507185/">https://www.ximalaya.com/45305355/sound/71507185/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group38/M03/08/F5/wKgJolqAhqSDVcQLAF1v1zADsnQ017.mp3" type="audio/mpeg"/>
+<itunes:duration>12:45</itunes:duration>
+</item>
+<item>
+<title>番外 2018.4：小步快跑的 Visual Studio 2017</title>
+<link>https://www.ximalaya.com/45305355/sound/69098470/</link>
+<pubDate>Sun, 28 Jan 2018 17:00:00 GMT</pubDate>
+<guid>ximalaya_69098470</guid>
+<description>
+<![CDATA[ <p>2017年3月，微软隆重地发布了 Visual Studio 2017 来庆祝这个产品线二十周年。也是从这时开始，VS 进入了每隔几周便有稳定版本更新的快节奏。作为用户，你正在使用它的哪个版本呢？你是否知道每个小版本带来的新特性呢？本期节目为你梳理出各个小版本最重要的特性，不要错过。</p><br><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/69098470/">https://www.ximalaya.com/45305355/sound/69098470/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group39/M05/19/B2/wKgJnlptTOGTO1xPAHoiHgwPan8444.mp3" type="audio/mpeg"/>
+<itunes:duration>16:40</itunes:duration>
+</item>
+<item>
+<title>番外 2018.3：Visual Studio for Mac 的前世今生</title>
+<link>https://www.ximalaya.com/45305355/sound/67055567/</link>
+<pubDate>Sun, 14 Jan 2018 19:00:00 GMT</pubDate>
+<guid>ximalaya_67055567</guid>
+<description>
+<![CDATA[ <p>从 SharpDevelop 到 MonoDevelop,再从 Xamarin Studio 到如今的 Visual Studio for Mac，一个产品的进化史其实也是 .NET 技术进步的缩影。节目太短，只够浮光掠影地提到一些主线了。想听更详细的故事吗？</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/67055567/">https://www.ximalaya.com/45305355/sound/67055567/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group23/M06/08/90/wKgJNFpZGmfS4HAeAIAYpsqo6fU431.mp3" type="audio/mpeg"/>
+<itunes:duration>17:29</itunes:duration>
+</item>
+<item>
+<title>番外 2018.2：JetBrains Rider 推介</title>
+<link>https://www.ximalaya.com/45305355/sound/66095536/</link>
+<pubDate>Mon, 08 Jan 2018 02:49:34 GMT</pubDate>
+<guid>ximalaya_66095536</guid>
+<description>
+<![CDATA[ <p>JetBrains 是一家知名的 IDE 供应商。2016年起，它借助新产品 Rider 进军 .NET 跨平台 IDE 市场，开始挑战微软公司 Visual Studio 在这个领域长期的霸主地位。那么，Rider 是如何一步一步壮大，背后的技术细节又是如何？本期节目为你揭开一些秘密。</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/66095536/">https://www.ximalaya.com/45305355/sound/66095536/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group36/M05/4E/2C/wKgJUlpS3BOR5uwaAI7840seGkI525.mp3" type="audio/mpeg"/>
+<itunes:duration>19:31</itunes:duration>
+</item>
+<item>
+<title>番外 2018.1：2017下半年的一些回顾</title>
+<link>https://www.ximalaya.com/45305355/sound/65197995/</link>
+<pubDate>Mon, 01 Jan 2018 23:37:33 GMT</pubDate>
+<guid>ximalaya_65197995</guid>
+<description>
+<![CDATA[ <p>.NET FM 第二季完结之后的几个月，我们的节目暂停录制。最近会以番外的形式回顾2017年一些值得关注的技术新闻。本期带来 .NET Core，Visual Studio，Xamarin 方面的一些更新。</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/65197995/">https://www.ximalaya.com/45305355/sound/65197995/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group37/M05/63/CB/wKgJoVpKxhnBy8HjAGxMGDYp3iw218.mp3" type="audio/mpeg"/>
+<itunes:duration>14:47</itunes:duration>
+</item>
+<item>
+<title>S02E10 MS Build, WWDC, Google IO</title>
+<link>https://www.ximalaya.com/45305355/sound/43564052/</link>
+<pubDate>Tue, 11 Jul 2017 21:23:34 GMT</pubDate>
+<guid>ximalaya_43564052</guid>
+<description>
+<![CDATA[ <p>两位小编给 Microsoft Build Conference, WWDC, Google IO 进行一个简短的总结，有趣的事双方对各个大会的槽点截然不同。本期也是 .NET FM 第二季的最后一期，感谢各位听众对我们一直以来的支持。对我们的节目有什么感想和反馈，欢迎写邮件给我们，邮件地址是 hi@dotnet.fm 。</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/43564052/">https://www.ximalaya.com/45305355/sound/43564052/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group29/M02/18/9D/wKgJXVllQnGhQZelAWV15erBjpI385.mp3" type="audio/mpeg"/>
+<itunes:duration>48:48</itunes:duration>
+</item>
+<item>
+<title>S02E09 软记文娱播报: Windows 10 Creators, TypeScript 2.3, ReactXP</title>
+<link>https://www.ximalaya.com/45305355/sound/36838093/</link>
+<pubDate>Mon, 01 May 2017 18:21:35 GMT</pubDate>
+<guid>ximalaya_36838093</guid>
+<description>
+<![CDATA[ <p>Windows 10 Creators 更新的同时，Vista support 也寿终正寝；TypeScript 2.3 发布，即将带来 Plugin system，力求更好支持 NG2 和 VueJS；微软全新推出的 ReactXP，进一步扩大跨平台的可能性。更多微软技术 相关的新闻，赶快收听本期软记文娱播报！</p><br><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/36838093/">https://www.ximalaya.com/45305355/sound/36838093/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group27/M04/CB/11/wKgJR1kHfKmy7JEmAL2BKukB3sc737.mp3" type="audio/mpeg"/>
+<itunes:duration>25:52</itunes:duration>
+</item>
+<item>
+<title>S02E08 是谁偷偷吃掉了你的 CPU</title>
+<link>https://www.ximalaya.com/45305355/sound/35595045/</link>
+<pubDate>Sun, 16 Apr 2017 20:16:12 GMT</pubDate>
+<guid>ximalaya_35595045</guid>
+<description>
+<![CDATA[ <p>在明星产品团队工作的压力到底有多大呢？是不是稍不留神就会被客户曝光成网红达人呢？本期我们来听听吕鹏的最新烦恼，和VSCode再次登上Hacker News前排的幕后故事。顺手附送GitHub网站最近界面更新。</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/35595045/">https://www.ximalaya.com/45305355/sound/35595045/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group26/M04/C5/2B/wKgJWFjz0SnQPg8mAKhCm-GZnvg847.mp3" type="audio/mpeg"/>
+<itunes:duration>22:58</itunes:duration>
+</item>
+<item>
+<title>S02E07 VS2017 • 真 • 零距离</title>
+<link>https://www.ximalaya.com/45305355/sound/34293890/</link>
+<pubDate>Sat, 01 Apr 2017 21:12:54 GMT</pubDate>
+<guid>ximalaya_34293890</guid>
+<description>
+<![CDATA[ Visual Studio 2017 发布会，漂洋过海的小编们终于发挥了优势，进行了一次零距离的现场观察。从 VS 2017，Xamarin，Mobile Center 再到 Visual Studio Team Service，快来听小编们娓娓道来。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/34293890/">https://www.ximalaya.com/45305355/sound/34293890/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group26/M02/01/EE/wKgJWFjgGBDhBal1ATNDGPz-8bg986.mp3" type="audio/mpeg"/>
+<itunes:duration>41:57</itunes:duration>
+</item>
+<item>
+<title>S02E06 软记文娱播报: .NET Core SDK, VS Code 1.10, TS 2.2 和用户反馈</title>
+<link>https://www.ximalaya.com/45305355/sound/31771781/</link>
+<pubDate>Fri, 03 Mar 2017 13:47:06 GMT</pubDate>
+<guid>ximalaya_31771781</guid>
+<description>
+<![CDATA[ 上期文娱播报收到了不少大家正面的评价，本期 Lex Li 回归，我们终于可以严肃讨论 .NET Core SDK, Xamarin Plugin 等等时下的技术新闻，并且第一次尝试进行回复用户反馈。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/31771781/">https://www.ximalaya.com/45305355/sound/31771781/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group19/M09/B0/21/wKgJJli5cvOiOQmaAOLh4XNuwN4788.mp3" type="audio/mpeg"/>
+<itunes:duration>30:58</itunes:duration>
+</item>
+<item>
+<title>S02E05 软记文娱播报首播</title>
+<link>https://www.ximalaya.com/45305355/sound/31034962/</link>
+<pubDate>Tue, 21 Feb 2017 20:13:05 GMT</pubDate>
+<guid>ximalaya_31034962</guid>
+<description>
+<![CDATA[ <p>“什么，你不知道Xamarin.Forms要支持WPF？什么，你不知道Visual Studio 2017就要发布了？什么，你不知道.NET刚过完15岁生日？”别担心，试试我们的新节目“软记文娱播报”，这些你都会轻松了解，并且可以开心的分享给自己的小伙伴们哦！本期值班主播吕鹏，正在加拿大蒙特利儿找住处的Lex童鞋有望在下个月重新回到节目当中，敬请期待</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/31034962/">https://www.ximalaya.com/45305355/sound/31034962/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group25/M08/A6/84/wKgJNlisnSPi02DGAFLQgGhe2wA039.mp3" type="audio/mpeg"/>
+<itunes:duration>11:18</itunes:duration>
+</item>
+<item>
+<title>S02E04 细数Cortana的那些竞争对手</title>
+<link>https://www.ximalaya.com/45305355/sound/28982860/</link>
+<pubDate>Tue, 17 Jan 2017 15:04:45 GMT</pubDate>
+<guid>ximalaya_28982860</guid>
+<description>
+<![CDATA[ 2011 年苹果公司将 Siri 带到了广大用户的面前，开启了语音智能助理的新时代。其他技术公司很快跟进，涌现出 Google Now、Alexa 和 Cortana 等竞品。除了步调稍慢的 Cortana，这些助理在最近几年都大步前进，走出电脑和手机，进入车载、电视、智能家居等更加生活化的场景。本期节目我们结合自身的使用体验来点评一下 Apple Siri，Goolge Now/Assistant 和 Amazon Alexa 三个技术。不看不知道，未来 Cortana 团队要补的课程可不少呢。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/28982860/">https://www.ximalaya.com/45305355/sound/28982860/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group23/M06/A7/69/wKgJNFh-Me-Q9VySATt8l1TUZF4609.mp3" type="audio/mpeg"/>
+<itunes:duration>43:04</itunes:duration>
+</item>
+<item>
+<title>S02E03 迟到的 Connect 回顾</title>
+<link>https://www.ximalaya.com/45305355/sound/28666393/</link>
+<pubDate>Fri, 13 Jan 2017 01:48:14 GMT</pubDate>
+<guid>ximalaya_28666393</guid>
+<description>
+<![CDATA[ <p>这期节目分两次才录完，时间是Connect大会之后的连续两个周末，一期对于微软 Connect 2016 大会的回顾。希望过去这么久，微软的新进展还能给各位带来一样的激动。假如你还没有玩起来这些新技术，可要抓紧了。</p><p>最后补上一句，如果你对于我们的节目有任何建议，请发送邮件到 Hi@DotNet.FM 哦，或者在微博联系 @DotNetFM。新年快乐各位（希望还不太晚）XD</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/28666393/">https://www.ximalaya.com/45305355/sound/28666393/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group24/M01/7E/CB/wKgJNVh4Munztq0sAize85MMglc192.mp3" type="audio/mpeg"/>
+<itunes:duration>1:16:01</itunes:duration>
+</item>
+<item>
+<title>S02E02 VS Code 究竟把 npm 怎么了</title>
+<link>https://www.ximalaya.com/45305355/sound/25106277/</link>
+<pubDate>Mon, 14 Nov 2016 12:53:18 GMT</pubDate>
+<guid>ximalaya_25106277</guid>
+<description>
+<![CDATA[ VS Code 在十一月二号接连发布了两个版本更新，并引发 npm registry 出现问题。这究竟是谁的锅？一个编辑器为何能够使 npm 服务器出现问题？两位小编在本集为大家详细讲解。<br><br>此外，本期节目是我们第一次拥有开场音乐 :)<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/25106277/">https://www.ximalaya.com/45305355/sound/25106277/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group21/M04/40/C4/wKgJKFgps2uQvUWuAH43mJslsHA900.mp3" type="audio/mpeg"/>
+<itunes:duration>17:13</itunes:duration>
+</item>
+<item>
+<title>S02E01 第二季开播</title>
+<link>https://www.ximalaya.com/45305355/sound/23405501/</link>
+<pubDate>Mon, 17 Oct 2016 12:23:48 GMT</pubDate>
+<guid>ximalaya_23405501</guid>
+<description>
+<![CDATA[ <p>主播吕鹏在忙完了这个暑假后，终于在西雅图安顿下来，趁此机会我们也将开始 .NET FM 第二季。在本季开篇第一集中，我们简短回顾了一下过去几个月 .NET, TS, VS Code 等产品的更新情况，并对即将到来的各个 Conference 做一点不着边的预测。</p><p>最重要的是，我们回归啦！</p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/23405501/">https://www.ximalaya.com/45305355/sound/23405501/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group19/M08/86/EB/wKgJJlgEwhOzXMNaAH2sz_GTudc778.mp3" type="audio/mpeg"/>
+<itunes:duration>17:09</itunes:duration>
+</item>
+<item>
+<title>#11 远程办公距离我们有多远？</title>
+<link>https://www.ximalaya.com/45305355/sound/18631247/</link>
+<pubDate>Mon, 18 Jul 2016 12:18:58 GMT</pubDate>
+<guid>ximalaya_18631247</guid>
+<description>
+<![CDATA[ 在IT行业远程办公并不是一个新鲜事物，但真的试验下就会发现看似简单的工作方式，既带来了种种便利，又对自己提出了更高的要求。本期吕鹏同学现身说法，讲讲他短短一个月的体会（另一位主播纯打酱油<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/18631247/">https://www.ximalaya.com/45305355/sound/18631247/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group20/M0A/34/09/wKgJLFeMyC3hGEzOANIZEmJAXO4961.mp3" type="audio/mpeg"/>
+<itunes:duration>28:41</itunes:duration>
+</item>
+<item>
+<title>番外——.NET Core 1.0的ABC</title>
+<link>https://www.ximalaya.com/45305355/sound/17719032/</link>
+<pubDate>Wed, 29 Jun 2016 13:57:25 GMT</pubDate>
+<guid>ximalaya_17719032</guid>
+<description>
+<![CDATA[ .NET Core 1.0就这么来了，被热火朝天的欧洲杯完全掩盖了。作为忠诚的微软社区一员，你对这个新平台了解多少？有没有准备近期上手？或许你已经有了一些问题需要解答。本期番外试图带你回顾.NET Core的诞生历程，以及和它兄弟.NET Framework的些许区别，抛砖引玉意图明显，但肯定值得一听哦！<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/17719032/">https://www.ximalaya.com/45305355/sound/17719032/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group15/M07/A0/7D/wKgDZVdz07eDy_mAAG3QWIkti7c305.mp3" type="audio/mpeg"/>
+<itunes:duration>14:59</itunes:duration>
+</item>
+<item>
+<title>#10 漫谈WWDC 2016</title>
+<link>https://www.ximalaya.com/45305355/sound/17576078/</link>
+<pubDate>Sun, 26 Jun 2016 13:15:02 GMT</pubDate>
+<guid>ximalaya_17576078</guid>
+<description>
+<![CDATA[ 苹果公司每年除去春秋两季的新产品发布会，其实还举办一次完全面向开发者的技术会议，即WWDC大会。卢建晖老师再次光临，为大家安利一下今年的WWDC为我们带来了哪些新技术。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/17576078/">https://www.ximalaya.com/45305355/sound/17576078/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group9/M02/9E/CD/wKgDZldv1UDAbIzHAbljm7UJeu0348.mp3" type="audio/mpeg"/>
+<itunes:duration>60:15</itunes:duration>
+</item>
+<item>
+<title>番外——.NET FM 诞生之前的故事</title>
+<link>https://www.ximalaya.com/45305355/sound/16978570/</link>
+<pubDate>Sun, 12 Jun 2016 03:37:28 GMT</pubDate>
+<guid>ximalaya_16978570</guid>
+<description>
+<![CDATA[ 本周为 Lex Li 单口，讲述 .NET FM 诞生之前的故事，希望给对播客录制感兴趣的朋友提供一些有用信息。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/16978570/">https://www.ximalaya.com/45305355/sound/16978570/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group16/M07/8F/66/wKgDbFdc2D-gjOgZAFPBTqq9Bz8533.mp3" type="audio/mpeg"/>
+<itunes:duration>11:26</itunes:duration>
+</item>
+<item>
+<title>#8 谁说开源就聊不得</title>
+<link>https://www.ximalaya.com/45305355/sound/16168988/</link>
+<pubDate>Tue, 24 May 2016 13:49:33 GMT</pubDate>
+<guid>ximalaya_16168988</guid>
+<description>
+<![CDATA[ 某位主播依然在异国他乡鬼混，导致 .NET FM 近期的上线各种不规律，在被另一位主播批评后决定改正，深夜录制了本期海外特别档。随着大公司纷纷改头换面拥抱开源，主播们的工作也逐渐从闭源商业软件或服务开始往开源的方向上不断靠近，这一期在四五年前还是不敢想象的。两位分享了从各自第一次接触开源到深度参与、主持开源项目中间发生的种种故事，探讨了 Open Source, Free Software，GPL 还是 MIT 等等容易被人们混淆的误区，力求给希望参与到开源运动中的听众们一些中肯的建议。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/16168988/">https://www.ximalaya.com/45305355/sound/16168988/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group8/M00/77/CF/wKgDYVdEW9PT6ocpAaSqUDfaR9c974.mp3" type="audio/mpeg"/>
+<itunes:duration>57:26</itunes:duration>
+</item>
+<item>
+<title>#7 Visual Studio Code解密第一季：深入浅出</title>
+<link>https://www.ximalaya.com/45305355/sound/15599178/</link>
+<pubDate>Wed, 11 May 2016 11:27:31 GMT</pubDate>
+<guid>ximalaya_15599178</guid>
+<description>
+<![CDATA[ <p> 2015 年初的 Build 大会上，微软公布了自己的跨平台代码编辑器 Visual Studio Code。到了年底的时候，这个编辑器开始支持插件，并且完全开源。这些都使得这个小巧的工具在 2016 年初收到了越来越多的关注。2016 年 4 月 14 日，Visual Studio Code 1.0 正式版也如约而至。本期节目中，两位主播将为你揭开它的前世今生，和与它相关的各种前沿技术。同时作为国内最早一批参与插件撰写的专家，他们也分享了各自编写插件的经验。 </p> <br /><div> <br /> <br> <br /></div><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/15599178/">https://www.ximalaya.com/45305355/sound/15599178/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group7/M02/66/42/wKgDX1czFwqhELkkAZSfYCVAIMg049.mp3" type="audio/mpeg"/>
+<itunes:duration>55:14</itunes:duration>
+</item>
+<item>
+<title>#6 来者何人——与跨平台移动开发专家卢建晖谈 Evolve 2016</title>
+<link>https://www.ximalaya.com/45305355/sound/15338622/</link>
+<pubDate>Thu, 05 May 2016 14:41:47 GMT</pubDate>
+<guid>ximalaya_15338622</guid>
+<description>
+<![CDATA[ Xamarin被微软公司收购之后，已经在三月底Build大会上展示了部分新技术，这让人对四月底Evolve大会充满期待。上周，果不其然Xamarin在主题演讲中发布了Xamarin.Forms Previewer等令人兴奋的新产品。本期节目，我们请来国内跨平台移动应用开发专家卢建晖，为大家回顾此次大会的亮点。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/15338622/">https://www.ximalaya.com/45305355/sound/15338622/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group10/M00/5C/FF/wKgDaVcrWwDwkZG6APeSj-2cF2U701.mp3" type="audio/mpeg"/>
+<itunes:duration>33:48</itunes:duration>
+</item>
+<item>
+<title>#5 来者何人——与资深架构师、微软MVP张善友探讨.NET跨平台和技术人的追求</title>
+<link>https://www.ximalaya.com/45305355/sound/14889130/</link>
+<pubDate>Mon, 25 Apr 2016 13:42:39 GMT</pubDate>
+<guid>ximalaya_14889130</guid>
+<description>
+<![CDATA[ <p> 本期我们请来了 .NET 跨平台重量级嘉宾张善友老师，聊一聊他十多年的技术生涯以及如何在腾讯使用 .NET 跨平台技术实现日均千万级访问量的基础服务平台。善友老师还不忘给两位主播分享了他两次受邀到微软西雅图总部的有趣经历。 </p> <br /><p> 人物简介： 张善友，毕业于兰州大学数学系，现任职于腾讯公司企业 IT 部，2006 年到 2016 年连续 11 年微软 ASP.NET/IIS MVP。专注于 .NET 的企业应用开发，关注前沿技术，并致力于开源社区与微软平台的组合应用，致力于 .NET 跨平台在社区中的推广。个人博客是 <a href="http://www.cnblogs.com/shanyou">http://www.cnblogs.com/shanyou</a>，微信公众号名称 dotNET跨平台。 </p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/14889130/">https://www.ximalaya.com/45305355/sound/14889130/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group7/M06/53/39/wKgDWlceHcnw1GviAQKDS-0kSJo057.mp3" type="audio/mpeg"/>
+<itunes:duration>35:17</itunes:duration>
+</item>
+<item>
+<title>#4 来者何人——与资深 Cloud OPS 架构师钱永超聊 Linux <3 .NET</title>
+<link>https://www.ximalaya.com/45305355/sound/14286980/</link>
+<pubDate>Mon, 11 Apr 2016 12:09:40 GMT</pubDate>
+<guid>ximalaya_14286980</guid>
+<description>
+<![CDATA[ <p> 无论是三月底 Red Hat, JetBrains 和 Unity 宣布加入 .NET Foundation，还是微软一直持续高喊的 “Microsoft <3 Linux”，种种迹象表明，微软技术圈和 Unix/Linux 世界的关系仿佛从当年 “Linux is a cancer” 的阴霾中走了出来。本期我们邀请到了原携程私有云架构师、eBay Staff Unix System Admin 钱永超来和我们聊聊，作为一个浸淫在 *inx 世界快十年的工程师，是如何提起「勇气」迈出跨界 .NET 圈的第一步的。两位主播也不忘借此机会偷师一二，向钱老师讨教如何学习 Linux 以及 Docker 相关的知识，跟上 .NET 跨平台的浪潮。 </p> <br /><p> <br> 钱永超目前正在运营微信公众号 Linux 之路，帮助大家在点滴时间学习 Linux 领域的知识，搜索 linuxroad 即可订阅，记住要认准”Linux inside” 的 logo 哦！喜欢使用 RSS 订阅或者在线浏览的朋友，也可以访问 <a href="http://linuxroad.cn/">linuxroad.cn</a>。 </p> <br /><p> <br> 人物简介： 钱永超，原携程私有云系统架构师，此前先后供职于Sun Microsystems (成都)，eBay中国运维中心（上海）。从小型机时代的厂商工程师，互联网公司的系统运维，再到今天的云系统架构，一路走来，不变的是对技术的热爱。最大的愿望是有生之年可以见证技术奇点（singularity）的到来。目前创业中。 </p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/14286980/">https://www.ximalaya.com/45305355/sound/14286980/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group9/M06/42/5B/wKgDZlcLk-qwSgGlAVMHjXQkR_0296.mp3" type="audio/mpeg"/>
+<itunes:duration>46:17</itunes:duration>
+</item>
+<item>
+<title>#3 兑现承诺，主播眼中的Build 2016</title>
+<link>https://www.ximalaya.com/45305355/sound/13967642/</link>
+<pubDate>Sun, 03 Apr 2016 12:32:38 GMT</pubDate>
+<guid>ximalaya_13967642</guid>
+<description>
+<![CDATA[ 微软公司从三月初起连续公布一系列重要新闻，如 SQL Server on Linux，如加入Eclipse基金会，如HoloLens将正式发货，都使得大家更加关注三月底在旧金山举办的Build大会。本期节目由二位主播回顾大会中精彩的主题演讲内容，并为你梳理不可不关注的技术焦点。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/13967642/">https://www.ximalaya.com/45305355/sound/13967642/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group13/M06/39/3B/wKgDXlcBDTziiNhpAOBrQZmsm5o310.mp3" type="audio/mpeg"/>
+<itunes:duration>30:38</itunes:duration>
+</item>
+<item>
+<title>#2 来者何人开篇——主播的心路历程</title>
+<link>https://www.ximalaya.com/45305355/sound/13673953/</link>
+<pubDate>Sun, 27 Mar 2016 13:48:59 GMT</pubDate>
+<guid>ximalaya_13673953</guid>
+<description>
+<![CDATA[ <p> 微软公司进入中国已有超过二十年历史，因此国内微软技术社区在它多年耕耘之后也是繁花似锦。我们将在全新启动的“来者何人”系列中，对于国内微软技术社区的专家们一一访谈，挖掘他们的成长经历和人生感悟，以饲听众。本期节目就先由二位主播吕鹏和Lex Li介绍他们各自的心路历程，揭秘一下如何成为微软员工或者微软MVP技术专家。 </p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/13673953/">https://www.ximalaya.com/45305355/sound/13673953/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group9/M09/30/DB/wKgDZlb35JmDMi6BAUfMtEUntI8998.mp3" type="audio/mpeg"/>
+<itunes:duration>44:45</itunes:duration>
+</item>
+<item>
+<title>#1 Build 的那几年</title>
+<link>https://www.ximalaya.com/45305355/sound/13479369/</link>
+<pubDate>Tue, 22 Mar 2016 13:37:50 GMT</pubDate>
+<guid>ximalaya_13479369</guid>
+<description>
+<![CDATA[ 科技公司主办技术会议在欧美早有传统，近年在国内也是如此。微软公司就办过PDC、MIX、TechEd、Build、Ignite、Connect等各式各样的会议。其中Build大会作为近年来聚焦于 Windows 平台各种新技术发布的一个新平台，已经越来越受到大家的关注。今年的Build大会即将于三月三十日在美国西岸城市旧金山召开。在此次盛会开幕之前，由吕鹏和Lex Li二位带你先行回顾下 Build 2011-2015的往届热点。我们也将结合近期各种消息源，尝试猜测 Build 2016会给各位带来何种惊喜。<br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/13479369/">https://www.ximalaya.com/45305355/sound/13479369/</a></p> ]]>
+</description>
+<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
+<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group9/M05/2A/7F/wKgDYlbxSmWSI5-JAQf5opDO4oM472.mp3" type="audio/mpeg"/>
+<itunes:duration>36:02</itunes:duration>
+</item>
+</channel>
+</rss>
