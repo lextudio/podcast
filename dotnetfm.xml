@@ -2,18 +2,23 @@
 <rss version="2.0" encoding="UTF-8" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
 		<title>.NET FM</title>
-		<link>https://www.ximalaya.com/album/3924737/</link>
+		<link>https://dotnet.fm/</link>
 		<pubDate>Fri, 11 Oct 2019 05:03:09 GMT</pubDate>
 		<language>zh-CN</language>
 		<description><![CDATA[一档专业而轻松的技术播客，主讲.NET和其他微软技术]]>
 		</description>
-		<itunes:author>DotNetFM</itunes:author>
 		<itunes:image href="https://fdfs.xmcdn.com/group12/M0B/2A/75/wKgDW1bxSTbxhBjbAAATvBuhs6s937.png"/>
 		<itunes:owner>
 			<itunes:name>LeXtudio Inc.</itunes:name>
 			<itunes:email>support@lextudio.com</itunes:email>
 		</itunes:owner>
 		<itunes:type>episodic</itunes:type>
+		<itunes:author>.NET FM</itunes:author>
+		<itunes:subtitle>致力于推广微软技术的一档非典型严肃播客 </itunes:subtitle>
+		<itunes:summary>Podcast by .NET FM.</itunes:summary>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:keywords>.NET,Lextm,Lex Li,rebornix,Peng Lv,Microsoft,Windows,Azure,C#,TypeScript,MVP,Build</itunes:keywords>
+		<itunes:category text="Technology"/>
 		<item>
 			<title>番外 2018.6: Kerry Jiang，MVP 快速访谈</title>
 			<link>https://www.ximalaya.com/45305355/sound/77198883/</link>
@@ -272,7 +277,7 @@
 			<link>https://www.ximalaya.com/45305355/sound/14889130/</link>
 			<pubDate>Mon, 25 Apr 2016 13:42:39 GMT</pubDate>
 			<guid>ximalaya_14889130</guid>
-			<description><![CDATA[<p> 本期我们请来了 .NET 跨平台重量级嘉宾张善友老师，聊一聊他十多年的技术生涯以及如何在腾讯使用 .NET 跨平台技术实现日均千万级访问量的基础服务平台。善友老师还不忘给两位主播分享了他两次受邀到微软西雅图总部的有趣经历。 </p> <br /><p> 人物简介： 张善友，毕业于兰州大学数学系，现任职于腾讯公司企业 IT 部，2006 年到 2016 年连续 11 年微软 ASP.NET/IIS MVP。专注于 .NET 的企业应用开发，关注前沿技术，并致力于开源社区与微软平台的组合应用，致力于 .NET 跨平台在社区中的推广。个人博客是 <a href="http://www.cnblogs.com/shanyou">http://www.cnblogs.com/shanyou</a>，微信公众号名称 dotNET跨平台。 </p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/14889130/">https://www.ximalaya.com/45305355/sound/14889130/</a></p>]]>
+			<description><![CDATA[<p> 本期我们请来了 .NET 跨平台重量级嘉宾张善友老师，聊一聊他十多年的技术生涯以及如何在腾讯使用 .NET 跨平台技术实现日均千万级访问量的基础服务平台。善友老师还不忘给两位主播分享了他两次受邀到微软西雅图总部的有趣经历。 </p> <br /><p> 人物简介： 张善友，毕业于兰州大学数学系，现任职于腾讯公司企业 IT 部，2006 年到 2016 年连续 11 年微软 ASP.NET/IIS MVP。专注于 .NET 的企业应用开发，关注前沿技术，并致力于开源社区与微软平台的组合应用，致力于 .NET 跨平台在社区中的推广。个人博客是 <a href="http://www.cnblogs.com/shanyou">http://www.cnblogs.com/shanyou</a>，微信公众号名称 dotNET跨平台。 </p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/14889130/">https://www.ximalaya.com/45305355/sound/14889130/</a></p>]]>
 			</description>
 			<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
 			<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group7/M06/53/39/wKgDWlceHcnw1GviAQKDS-0kSJo057.mp3" type="audio/mpeg"/>
@@ -283,7 +288,7 @@
 			<link>https://www.ximalaya.com/45305355/sound/14286980/</link>
 			<pubDate>Mon, 11 Apr 2016 12:09:40 GMT</pubDate>
 			<guid>ximalaya_14286980</guid>
-			<description><![CDATA[<p> 无论是三月底 Red Hat, JetBrains 和 Unity 宣布加入 .NET Foundation，还是微软一直持续高喊的 “Microsoft <3 Linux”，种种迹象表明，微软技术圈和 Unix/Linux 世界的关系仿佛从当年 “Linux is a cancer” 的阴霾中走了出来。本期我们邀请到了原携程私有云架构师、eBay Staff Unix System Admin 钱永超来和我们聊聊，作为一个浸淫在 *inx 世界快十年的工程师，是如何提起「勇气」迈出跨界 .NET 圈的第一步的。两位主播也不忘借此机会偷师一二，向钱老师讨教如何学习 Linux 以及 Docker 相关的知识，跟上 .NET 跨平台的浪潮。 </p> <br /><p> <br> 钱永超目前正在运营微信公众号 Linux 之路，帮助大家在点滴时间学习 Linux 领域的知识，搜索 linuxroad 即可订阅，记住要认准”Linux inside” 的 logo 哦！喜欢使用 RSS 订阅或者在线浏览的朋友，也可以访问 <a href="http://linuxroad.cn/">linuxroad.cn</a>。 </p> <br /><p> <br> 人物简介： 钱永超，原携程私有云系统架构师，此前先后供职于Sun Microsystems (成都)，eBay中国运维中心（上海）。从小型机时代的厂商工程师，互联网公司的系统运维，再到今天的云系统架构，一路走来，不变的是对技术的热爱。最大的愿望是有生之年可以见证技术奇点（singularity）的到来。目前创业中。 </p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/14286980/">https://www.ximalaya.com/45305355/sound/14286980/</a></p>]]>
+			<description><![CDATA[<p> 无论是三月底 Red Hat, JetBrains 和 Unity 宣布加入 .NET Foundation，还是微软一直持续高喊的 “Microsoft <3 Linux”，种种迹象表明，微软技术圈和 Unix/Linux 世界的关系仿佛从当年 “Linux is a cancer” 的阴霾中走了出来。本期我们邀请到了原携程私有云架构师、eBay Staff Unix System Admin 钱永超来和我们聊聊，作为一个浸淫在 *inx 世界快十年的工程师，是如何提起「勇气」迈出跨界 .NET 圈的第一步的。两位主播也不忘借此机会偷师一二，向钱老师讨教如何学习 Linux 以及 Docker 相关的知识，跟上 .NET 跨平台的浪潮。 </p> <br /><p> <br> 钱永超目前正在运营微信公众号 Linux 之路，帮助大家在点滴时间学习 Linux 领域的知识，搜索 linuxroad 即可订阅，记住要认准”Linux inside” 的 logo 哦！喜欢使用 RSS 订阅或者在线浏览的朋友，也可以访问 <a href="http://linuxroad.cn/">linuxroad.cn</a>。 </p> <br /><p> <br> 人物简介： 钱永超，原携程私有云系统架构师，此前先后供职于Sun Microsystems (成都)，eBay中国运维中心（上海）。从小型机时代的厂商工程师，互联网公司的系统运维，再到今天的云系统架构，一路走来，不变的是对技术的热爱。最大的愿望是有生之年可以见证技术奇点（singularity）的到来。目前创业中。 </p><br /><br /><p>查看节目原文：<br /><a href="https://www.ximalaya.com/45305355/sound/14286980/">https://www.ximalaya.com/45305355/sound/14286980/</a></p>]]>
 			</description>
 			<itunes:image href="https://imagev2.xmcdn.com/group13/M09/2A/DB/wKgDXlbxSqyTnGOxAAATvBuhs6s802.jpg"/>
 			<enclosure url="https://getpodcast.xyz/audio/ximalaya/3924737/group9/M06/42/5B/wKgDZlcLk-qwSgGlAVMHjXQkR_0296.mp3" type="audio/mpeg"/>
